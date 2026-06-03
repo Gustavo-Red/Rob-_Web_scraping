@@ -4,7 +4,7 @@
 
 > **Web Scraping** é a habilidade de pegar informações da internet, de sites, para você fazer o que quiser com elas.
 
-Este projeto é um robô que verifica automaticamente se domínios `.br` estão disponíveis para registro, consultando o site [registro.br](https://registro.br/). Ele lê uma lista de domínios de uma planilha Excel e salva os resultados em um arquivo `.txt`.
+Este projeto é um robô que verifica automaticamente se domínios estão disponíveis para registro, consultando o site [registro.br](https://registro.br/). Ele lê uma lista de domínios de uma planilha Excel e salva os resultados em um arquivo `.txt`.
 
 ---
 
